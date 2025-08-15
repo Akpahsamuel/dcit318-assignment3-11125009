@@ -1,0 +1,5 @@
+{"Id":1,"Name":"Laptop","Quantity":15,"DateAdded":"2025-07-16T01:36:16.276753+00:00","DisplayInfo":"Laptop (ID: 1) - Quantity: 15 - Added: 07/16/2025"}
+{"Id":2,"Name":"Mouse","Quantity":50,"DateAdded":"2025-07-21T01:36:16.288712+00:00","DisplayInfo":"Mouse (ID: 2) - Quantity: 50 - Added: 07/21/2025"}
+{"Id":3,"Name":"Keyboard","Quantity":30,"DateAdded":"2025-07-26T01:36:16.288713+00:00","DisplayInfo":"Keyboard (ID: 3) - Quantity: 30 - Added: 07/26/2025"}
+{"Id":4,"Name":"Monitor","Quantity":25,"DateAdded":"2025-07-31T01:36:16.288713+00:00","DisplayInfo":"Monitor (ID: 4) - Quantity: 25 - Added: 07/31/2025"}
+{"Id":5,"Name":"Headphones","Quantity":40,"DateAdded":"2025-08-05T01:36:16.288715+00:00","DisplayInfo":"Headphones (ID: 5) - Quantity: 40 - Added: 08/05/2025"}
